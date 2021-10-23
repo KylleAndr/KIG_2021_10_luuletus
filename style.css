@@ -1,0 +1,43 @@
+body {
+    
+    text-align: center;
+    width: 400px;
+    margin: auto;    
+    }
+    h1 {
+        padding-bottom: 25px;
+    }
+
+.content {
+    margin-top: 30px;
+    background-color: #E5E5E5;
+    border-radius: 5px;
+    -webkit-box-shadow: 4px 4px 11px 5px rgba(0,0,0,0.37); 
+box-shadow: 4px 4px 11px 5px rgba(0,0,0,0.37);
+       text-align: left;
+       padding: 70px;
+       font-family: Noto Serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 21px;
+    }
+
+.gallery {
+   
+    padding-left: 130px;
+    margin-top: 60px;
+}    
+.gallery-item img {
+    width: 120px;
+    height: auto;   
+    border-radius: 5px;
+    -webkit-box-shadow: 4px 4px 11px 5px rgba(0,0,0,0.37); 
+box-shadow: 4px 4px 11px 5px rgba(0,0,0,0.37);
+
+}
+.gallery-item p {
+    font-style: italic;
+    font-size: 14px;
+    margin-top: 0px;
+}
